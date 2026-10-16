@@ -1,19 +1,6 @@
 
 <!-- Top of the section-->
 
-<h1 align="center">»»—— Introduction ——«« </h1>
-
-
-<p>
- 
-
-PC Technician with 3 years experience working for Office of Technology Services at Lone Star College.
-Handling incident tickets with ServiceNow, updating and checking asset tag numbers in audits before new semester starts,
-troubleshooting hardware and software issues, reimaging Windows 11 with Microsoft Endpoint Configuration Manager, and prepping loaner devices.
-
-
-</p>
-
 
 
 

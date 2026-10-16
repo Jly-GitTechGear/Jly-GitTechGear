@@ -1,16 +1,6 @@
 
 <!-- Top of the section-->
 
-
-
-
-
-<hr>
-
-
-<br>
-
-
 <div align="center">
  
   <h1>»»—— 🖥️ IT Homelab Projects 🖥️ ——««  </h1>
@@ -31,21 +21,6 @@
     <th>Category</th>
     <th>Project Labs</th>
     <th>Videos</th>
-  </tr>
-
-<!-- First Column-->
-  <tr>
-    <td><b>🛡️ Cybersecurity</b></td>
-    <td>
-      <ul align="left">
-        <li><a href="https://github.com/jly017tech/Cybersecurity-Homelab">Monitoring threats with Wazuah on Ubuntu</a></li>
-      </ul>
-    </td>
-    <td align="center">
-      <a href="YOUR_VIDEO_URL_HERE">
-        <img src=""  alt="notShowing"  width="30"/><br>
-      </a>
-    </td>
   </tr>
 
 

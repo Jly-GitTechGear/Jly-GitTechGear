@@ -14,16 +14,7 @@ troubleshooting hardware and software issues, reimaging Windows 11 with Microsof
 
 </p>
 
-<h2 align="center">»»——  Credentials ——«« </h2>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/jly-tech/"><img src="https://github.com/user-attachments/assets/aa551a4b-7dcc-43c7-9790-46c0e52e00f30" width=120/></a>
-&nbsp; &nbsp; &nbsp;
-<a href="https://www.credly.com/users/jly0tech"> <img  alt="CredlyPixelArt" src="https://github.com/user-attachments/assets/0a59e606-032e-45f6-947d-e2a20f92d6ec" width=120/></a>
-&nbsp; &nbsp;
-<a href=""> <img  alt="DocumentationPixlart" src="https://github.com/user-attachments/assets/0c4847c1-4c9a-42c5-a23f-39d8449390b6" width="120"/></a>
-&nbsp; &nbsp;
-</p>
 
 
 

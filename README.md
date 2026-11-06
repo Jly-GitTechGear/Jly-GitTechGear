@@ -35,38 +35,27 @@
    <td><b>Establishing Private Service Access with Azure Private Link</b></td>
 
 <!-- Description Section #1 -->
-   
-   <td>
-
-   <p>A client unable reach one of the clients VM. Must setup inpsection the current path, creating the private endpoint, configuring private DNS, and Verifying private accesss</p>
-  
+  <td>
+   <p>A client unable reach one of the clients VM and it needs setup inpsection the current path, creating the private endpoint, configuring private DNS, and Verifying private access </p>
    </td>
-   
-    
-   <td>
-    
+  <td>
      <!-- Link section #1 -->
-     
-     <li><a href="https://github.com/jly017tech/Cybersecurity-Homelab">Monitoring threats with Wazuah on Ubuntu</a></li>
-    
+  <a href="https://github.com/jly0Tech/WindowsServer_2025">Microsoft Azure: Windows Server Active Directory </a>
     </td>
-
   </tr>
 
 
 <!--Second Column-Project Title #2 -->
-  
   <tr>
+   <!-- Description Section #2
     <td><b>🖥️ Windows Server </b></td>
-    <td>
-        <a href="https://github.com/jly0Tech/WindowsServer_2025">Microsoft Azure: Windows Server Active Directory </a>
+   <!-- Link Section #2 -->
+     <td>
+        <p>Paragraph #2 </p>
     </td>
-   
-
    <!-- Link Section 2 -->
-  
-  <td align="center">
-             <a href="https://github.com/jly0Tech/WindowsServer_2025">Microsoft Azure: Windows Server Active Directory </a>
+  <td>
+ <a href="https://github.com/jly0Tech/WindowsServer_2025">Microsoft Azure: Windows Server Active Directory </a>
       </a>
     </td>
   </tr>

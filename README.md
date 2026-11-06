@@ -30,20 +30,31 @@
   </tr>
 
 <!-- First Column-->
-  <tr>
-    <td><b>🛡️ Cybersecurity</b></td>
-    <td>
-        <li><a href="https://github.com/jly017tech/Cybersecurity-Homelab">Monitoring threats with Wazuah on Ubuntu</a></li>
+<tr>
+    <!-- Project Section #1 -->
+   <td><b>Establishing Private Service Access with Azure Private Link</b></td>
+
+<!-- Description Section #1 -->
+   
+   <td>
+
+   <p>A client unable reach one of the clients VM. Must setup inpsection the current path, creating the private endpoint, configuring private DNS, and Verifying private accesss</p>
+  
+   </td>
+   
+    
+   <td>
+    
+     <!-- Link section #1 -->
+     
+     <li><a href="https://github.com/jly017tech/Cybersecurity-Homelab">Monitoring threats with Wazuah on Ubuntu</a></li>
+    
     </td>
-    <td align="center">
-      <a href="YOUR_VIDEO_URL_HERE">
-        <img src=""  alt="notShowing"  width="30"/><br>
-      </a>
-    </td>
+
   </tr>
 
 
-<!--Second Column - Project Title #2 -->
+<!--Second Column-Project Title #2 -->
   
   <tr>
     <td><b>🖥️ Windows Server </b></td>
@@ -52,7 +63,8 @@
     </td>
    
 
-     <!--Link Section 2 -->
+   <!-- Link Section 2 -->
+  
   <td align="center">
              <a href="https://github.com/jly0Tech/WindowsServer_2025">Microsoft Azure: Windows Server Active Directory </a>
       </a>

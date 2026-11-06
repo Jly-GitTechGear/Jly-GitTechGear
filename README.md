@@ -49,9 +49,9 @@
 
 <!--Second Column-Project Title #2 -->
   <tr>
-   <!-- Description Section #2
+   <!-- Project Section #2 -->
     <td><b>🖥️ Windows Server </b></td>
-   <!-- Link Section #2 -->
+   <!-- Description Section #2 -->
      <td>
         <p>Paragraph #2 </p>
     </td>

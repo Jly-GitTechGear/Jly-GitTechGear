@@ -38,7 +38,7 @@
 
 <!-- Description Section #1 -->
   <td>
-   <p>A client unable reach one of the clients VM and it needs setup inpsection the current path, creating the private endpoint, configuring private DNS, and Verifying private access </p>
+   <p>A client unable reach to the public network VM and it needs setup private service access with inpsection the current path, creating the private endpoint, configuring private DNS, and verifying private access </p>
    </td>
   <td>
      <!-- Link section #1 -->

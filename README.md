@@ -25,7 +25,7 @@
 <table>
   <tr>
     <th>Projects</th>
-    <th>Description Labs</th>
+    <th>Description</th>
     <th>Links</th>
   </tr>
 

@@ -21,6 +21,14 @@
 
  
 
+<thead>
+  <tr>
+   <th>Projects</th>
+   <th>Description</th>
+   <th>Links</th>
+  </tr>
+</thead>
+
  
 
 <!-- Information Technology Projects shows projects down below-->

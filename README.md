@@ -24,18 +24,16 @@
 
 <table>
   <tr>
-    <th>Category</th>
-    <th>Project Labs</th>
-    <th>Videos</th>
+    <th>Projects</th>
+    <th>Description Labs</th>
+    <th>Links</th>
   </tr>
 
 <!-- First Column-->
   <tr>
     <td><b>🛡️ Cybersecurity</b></td>
     <td>
-      <ul align="left">
         <li><a href="https://github.com/jly017tech/Cybersecurity-Homelab">Monitoring threats with Wazuah on Ubuntu</a></li>
-      </ul>
     </td>
     <td align="center">
       <a href="YOUR_VIDEO_URL_HERE">
@@ -45,25 +43,18 @@
   </tr>
 
 
-<!--Second Column-->
+<!--Second Column - Project Title #2 -->
+  
   <tr>
     <td><b>🖥️ Windows Server </b></td>
     <td>
-      <ul align="left">
-        <li><a href="https://github.com/jly0Tech/WindowsServer_2025">Microsoft Azure: Windows Server Active Directory </a></li
-       <li><a href="https://github.com/jly017tech/">Windows Server: networking and powershell scripts</a></li>
-        <li><a href="https://github.com/jly017tech/PDQDeploy-Inventory">PDQ Deploy and Inventory</a></li>
-        <li><a href="https://github.com/jly017tech/Access-Based-Enumeration-ABE-">Enumerating with ABE</a></li>
-        <li><a href="https://github.com/jly017tech/GroupPolicyManagement_Homelab/blob/main/README.md">Group Policy Management</a></li>
-        <li><a href="https://github.com/jly017tech/Setting-up-Shared-Folder-with-NFTS-Permission">Setting up Shared Folder with NTFS Permission</a></li>
-        <li><a href="https://github.com/jly017tech/2025-MDTLab">[Retired] Windows Deplyoment Service Lab: Microsoft Deployment Toolkit</a></li>     
-        <li><a href="https://github.com/jly017tech/MDT-AddingApp">MDT: Adding application</a></li>
-        <li><a href="https://github.com/jly017tech/FOG-Image-Server">Reimaging and Copying in Ubuntu with FOG</a></li>
-      </ul>
+        <a href="https://github.com/jly0Tech/WindowsServer_2025">Microsoft Azure: Windows Server Active Directory </a>
     </td>
-    <td align="center">
-       <a href="YOUR_VIDEO_URL_HERE">
-        <img src="" alt="notShowing" width="30"/><br>
+   
+
+     <!--Link Section 2 -->
+  <td align="center">
+             <a href="https://github.com/jly0Tech/WindowsServer_2025">Microsoft Azure: Windows Server Active Directory </a>
       </a>
     </td>
   </tr>

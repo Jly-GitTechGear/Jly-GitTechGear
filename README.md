@@ -1,6 +1,7 @@
 <!-- Introduction -->
 
-<h1 align="center">Introduction</h1>
+<div align="center"> 
+<h1>Introduction</h1>
 
 `PC Technician` … `Certified in CompTIA A+, Network+, AWS-CLF-002, and Security+`
 
@@ -11,6 +12,7 @@
  managing cable management, checking TekVox equipment: such as 1201-MV Univerasl switcher, TEKVOX ShareView Adapter, Tek4 Pro TelMonitor, troubleshooting Microsoft Office 365, handling incident tickets with ServiceNow.
  
 </p>
+</div>
 
 
 <!-- Top of the section-->

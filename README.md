@@ -1,6 +1,6 @@
 <!-- Introduction -->
 
-<h1>Introduction</h1>
+<h1 align="center">Introduction</h1>
 
 `PC Technician` … `Certified in CompTIA A+, Network+, AWS-CLF-002, and Security+`
 

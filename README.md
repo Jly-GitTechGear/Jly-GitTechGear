@@ -112,9 +112,3 @@
       </a>
     </td>
   </tr>
-
- 
-
-<!-- Information Technology Projects shows projects down below-->
-
-

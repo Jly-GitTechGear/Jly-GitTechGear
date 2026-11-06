@@ -2,7 +2,7 @@
 
 <h1>Introduction</h1>
 
-`PC Technician` … `Certified in CompTIA A+, Network+, and Security+`
+`PC Technician` … `Certified in CompTIA A+, Network+, AWS-CLF-002, and Security+`
 
 <p>
  PC Technician with an associate in Information Systems and Technology from Utah Valley University.

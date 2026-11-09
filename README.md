@@ -118,9 +118,7 @@
 
 <!-- End of the table section -->
 </table>
-
- <br>
-
+</div>
 
   
  <h2>Blue Stone Financial Group Section</h2>

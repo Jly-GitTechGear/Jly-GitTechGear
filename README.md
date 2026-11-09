@@ -115,6 +115,8 @@
     </td>
   </tr>
 
+
+<!-- End of the table section -->
 </table>
 
  <br>
